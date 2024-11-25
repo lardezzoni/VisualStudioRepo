@@ -79,6 +79,7 @@ class ComparisonModule:
             print(f"{Fore.RED}Error finding lowest price: {e}")
             return None, None
 
+# Main implementation of BargainBot
 
 if __name__ == "__main__":
     # Banner
